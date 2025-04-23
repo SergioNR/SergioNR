@@ -10,6 +10,6 @@
 ## Front-End Development ##
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,vite,babel)
 ## Back-End Development ##
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,postman)
+![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postgres,prisma,mongodb,postman)
 ## DevOps & Infrastructure ##
 ![My Skills](https://skillicons.dev/icons?i=github,githubactions,aws,gcp,azure,docker,cloudflare)
